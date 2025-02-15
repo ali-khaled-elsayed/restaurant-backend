@@ -67,3 +67,22 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## API Documentation (Postman Collection)
+
+We provide a Postman collection to help you test the API easily.
+
+### Steps to Import the Collection:
+1. **Download Postman** (if not installed) from [https://www.postman.com/](https://www.postman.com/).
+2. **Clone this repository** or **download** the `postman_collection.json` file:
+   ```sh
+   git clone https://github.com/yourusername/your-repo.git
+   cd your-repo
+
+## test Api
+To test the API, import the Postman collection:
+
+1. Download the `postman_collection.json` file from the repository.
+2. Open Postman.
+3. Click **Import** and select the `postman_collection.json` file.
+4. Use the saved requests to test the API.
